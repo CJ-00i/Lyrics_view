@@ -15,7 +15,7 @@ pip install sounddevice soundfile numpy
 
 command
 
-    > ffmpeg -i SongName.mp4 -ar 44100 -ac 1 SongName.wav
+    > ffmpeg -i SongName.mp3 -ar 44100 -ac 1 SongName.wav
 
 
 
@@ -44,7 +44,7 @@ pip install numpy
 
 command
 
-    > ffmpeg -i SongName.mp4 -ar 44100 -ac 1 SongName.wav
+    > ffmpeg -i SongName.mp3 -ar 44100 -ac 1 SongName.wav
 
 
 
